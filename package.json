@@ -1,0 +1,26 @@
+{
+  "name": "serverless",
+  "version": "0.1.0",
+  "description": "Application boilerplate for Serverless Framework@Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimzhan/serverless.git"
+  },
+  "keywords": [
+    "serverless",
+    "node.js",
+    "javascript",
+    "typescript",
+    "aws"
+  ],
+  "author": "Jim Zhan <jim.zhan@me.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jimzhan/serverless/issues"
+  },
+  "homepage": "https://github.com/jimzhan/serverless#readme"
+}

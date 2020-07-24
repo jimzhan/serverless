@@ -1,2 +1,3 @@
-# serverless
-Serverless application boilerplate in Node.js
+# Serverles
+
+Application boilerplate for Serverless Framework@Node.js
